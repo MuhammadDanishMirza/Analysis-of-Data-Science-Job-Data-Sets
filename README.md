@@ -4,7 +4,7 @@
 This Jupyter Notebook analyzes the dataset "Data Science Salaries 2024," which contains information on jobs in the data science field, including salary data. The analysis aims to explore trends and insights related to data science salaries, such as the impact of factors like experience level, employment type, company size, and location on compensation.
 
 ## Dataset
-The dataset used in this analysis is downloaded from the following [https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data]. It comprises anonymized data on data science jobs collected from various sources, including surveys, job postings, and public records.
+The dataset used in this analysis is downloaded from the following [link](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data). It comprises anonymized data on data science jobs collected from various sources, including surveys, job postings, and public records.
 
 ## Features
 The dataset includes the following features:
